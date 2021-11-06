@@ -1,7 +1,7 @@
 # SeleniumNUnitFramework
 This a simple example of how to run specflow tests in parallel using Selenium WebDriver + NUnit + Page Objects.
 
-<!-- ![Project structure](structure.PNG) -->
+![Project structure](structure.PNG)
 
 Tech stack:
 
